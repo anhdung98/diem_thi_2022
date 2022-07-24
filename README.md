@@ -1,8 +1,8 @@
 # Dữ liệu thô Điểm thi tốt nghiệp THPT 2022
 
-> Hai chữ số đầu tiên của số báo danh là mã tỉnh của thí sinh dự thi
+> Hai chữ số đầu tiên của số báo danh là mã tỉnh/thành phố của thí sinh dự thi
 
-## Mã tỉnh
+## Mã tỉnh/thành phố
 
 - 01 - THÀNH PHỐ HÀ NỘI
 - 02 - THÀNH PHỐ HỒ CHÍ MINH
