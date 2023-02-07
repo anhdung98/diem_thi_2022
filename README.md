@@ -67,3 +67,8 @@
 - 62 – TỈNH ĐIỆN BIÊN
 - 63 – TỈNH ĐĂK NÔNG
 - 64 – TỈNH HẬU GIANG
+
+## Source code
+> 2023/02/07: Mã nguồn có thể không hoạt động, vui lòng sửa `spiders\diemthi_spider.py` cho phù hợp
+
+Công cụ Crawl dữ liệu được viết bằng Python Framework [Scrapy](https://github.com/scrapy/scrapy), nguồn dữ liệu thu thập từ trang web [tienphong.vn](https://tienphong.vn/tra-cuu-diem-thi.tpo).
